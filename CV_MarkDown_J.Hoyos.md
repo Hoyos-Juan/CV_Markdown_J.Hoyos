@@ -3,11 +3,16 @@
 ![Foto CV](https://images.vexels.com/media/users/3/144928/isolated/lists/ebbccaf76f41f7d83e45a42974cfcd87-ilustracion-de-perro.png)
 
 Nombre: **Juan David Hoyos Quiñonez**
- Fecha de Nacimiento: _22/09/2002_
- Dirección: _C/ Pere Llobera, 15, 2º 1a_ 
- 07007 **_PALMA_**
- Email: jdhoyos2209@gmail.com / jhoyos@cifpfbmoll.eu
- Web: https://www3.caib.es/xestib/families/dadesPersonals
+
+Fecha de Nacimiento: _22/09/2002_
+
+Dirección: _C/ Pere Llobera, 15, 2º 1a_ 
+
+07007 **_PALMA_**
+
+Email: jdhoyos2209@gmail.com / jhoyos@cifpfbmoll.eu
+
+Web: https://www3.caib.es/xestib/families/dadesPersonals
 
 
 ## Resumen
