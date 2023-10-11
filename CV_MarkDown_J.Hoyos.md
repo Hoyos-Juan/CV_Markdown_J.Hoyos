@@ -24,7 +24,7 @@ Web: https://www3.caib.es/xestib/families/dadesPersonals
 ### Historial Laboral
 
 - Limpiador en edificios residenciales en la empresa "_Top Clean_"; 2018-2022
-- Auxiliar de obra en "_Obras Toni_"; 2018-2019
+- Auxiliar de obra en "_Obras Equis_"; 2018-2019
 
 
 
